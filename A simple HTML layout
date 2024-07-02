@@ -1,4 +1,4 @@
-<h1> A basic HTML design layout </h1>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@
 </body>
 </html>
 
-<h1> The output will look like this </h1>
+
 
 
 
