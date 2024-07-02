@@ -1,0 +1,63 @@
+<h1> A basic HTML design layout </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first html website</title>
+</head>
+<body>
+    <h1 style="color:white; background-color: blue;">Cox's Bazar</h1>
+    <p>Cox's Bazar, located in southeastern <strong><em>Bangladesh</em></strong>, 
+        is a captivating coastal town renowned for possessing the world's longest 
+        natural sea beach. Its unending stretch of golden sands, 
+        stretching approximately 120 kilometers along the Bay of Bengal, 
+        attracts visitors from all over the globe. Apart from its picturesque beaches, 
+        Cox's Bazar is also blessed with lush hills, serene Buddhist temples, 
+        and vibrant local markets. The town's welcoming atmosphere and 
+        warm hospitality of its locals make it a popular destination for 
+        both local tourists and international travelers seeking a 
+        tranquil and rejuvenating retreat. A   dditionally, 
+        Cox's Bazar offers opportunities for water sports, 
+        beachside relaxation, and breathtaking sunsets, 
+        making it a memorable destination that captivates the hearts of all who visit.</p>
+    <h1 style="color: black; background-color: greenyellow;">Math and Chemistry</h1>
+    <p>Water:H<sub>2</sub>0</p>
+    <p>Sulphuric <mark>Acid</mark> : H<sub>2</sub>SO<sub>4</sub></p>
+    <p>Formula: (a+b)<sup>2</sup> = a <sup>2</sup>+2ab+b<sup>2</sup></p>
+    <p><small>This is a very small text</small></p>
+    <h2>Math Book Price: <em>100 Taka <strike>150 taka</strike> </em>  </h2>
+</body>
+</html>
+
+<h1> The output will look like this </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
